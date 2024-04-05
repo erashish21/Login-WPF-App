@@ -1,0 +1,28 @@
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.exe.config
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.exe
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.pdb
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.baml
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.baml
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.g.cs
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.g.cs
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\App.g.cs
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.cache
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.g.resources
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.Properties.Resources.resources
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.GenerateResource.Cache
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.exe
+F:\Youtube Channel\Dotnet Mob\wpf tutorial\login screen\project\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.pdb
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.exe
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.pdb
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.baml
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.baml
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.g.cs
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\App.g.cs
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.cache
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.g.resources
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.Properties.Resources.resources
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\wpf login screen\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.csproj.CoreCompileInputs.cache

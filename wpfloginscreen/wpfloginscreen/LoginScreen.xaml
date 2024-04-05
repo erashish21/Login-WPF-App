@@ -1,0 +1,26 @@
+﻿<Window x:Class="wpfloginscreen.LoginScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="319" Width="300" FontSize="14" Background="#04c582">
+	<Grid Background="LightBlue">
+		<Border BorderBrush="DarkBlue" BorderThickness="2" CornerRadius="10" Padding="20">
+			<StackPanel>
+				<TextBlock Text="Login" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
+
+				<StackPanel Margin="0,0,0,10">
+					<TextBlock Text="Username" Name="txtUsername" Margin="0,0,0,5"/>
+					<TextBox Margin="0,0,0,5" Height="30" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}"/>
+				</StackPanel>
+
+				<StackPanel Margin="0,0,0,10">
+					<TextBlock Text="Password" Name="txtPassword" Margin="0,0,0,5"/>
+					<PasswordBox Margin="0,0,0,5" Height="30" />
+				</StackPanel>
+
+				<Button Content="Login" Name="btnSubmit" Click="btnSubmit" HorizontalAlignment="Center" Width="100" Height="40" Background="DarkBlue" Foreground="White" FontWeight="Bold" BorderThickness="0" />
+
+				<TextBlock Text="Forgot password?" HorizontalAlignment="Center" Margin="0,20,0,0" Foreground="DarkBlue" TextDecorations="Underline" Cursor="Hand"/>
+			</StackPanel>
+		</Border>
+	</Grid>
+</Window>
